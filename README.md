@@ -17,8 +17,8 @@ Using fprettify
 
 ## Known Issues
 
-[ ] Showing list of warning messages on TreeView  
-[ ] Configuration validation
+- [ ] Showing list of warning messages on TreeView  
+- [ ] Configuration validation
 
 ## Release Notes
 
