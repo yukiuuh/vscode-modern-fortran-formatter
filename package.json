@@ -7,6 +7,10 @@
   "engines": {
     "vscode": "^1.48.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yukiuuh/vscode-modern-fortran-formatter"
+  },
   "categories": [
     "Formatters"
   ],
@@ -21,12 +25,12 @@
         "modernFortranFormatter.fprettifyPath": {
           "type": "string",
           "default": "",
-          "description": "The full path to fprettify"
+          "description": "The full path to fprettify (if you need to specify excutable)"
         },
         "modernFortranFormatter.fprettifyArgs": {
           "type": "string",
           "default": "-i 4",
-          "description": "fprettify arguments"
+          "description": "fprettify arguments (DO NOT SET:-h, -r, -S, --version)"
         }
       }
     }
@@ -50,6 +54,7 @@
     "glob": "^7.1.6",
     "mocha": "^8.0.1",
     "typescript": "^3.8.3",
-    "vscode-test": "^1.4.0"
+    "vscode-test": "^1.4.0",
+    "vsce": "^1.79.4"
   }
 }
