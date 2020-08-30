@@ -4,6 +4,6 @@ All notable changes to the "vscode-modern-fortran-formatter" extension will be d
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [0.0.1]
+## [0.0.2]
 
 - Initial release

@@ -17,11 +17,11 @@ Using fprettify
 
 ## Known Issues
 
-- [ ] Showing list of warning messages on TreeView  
+- [ ] Showing list of warning messages on TreeView
 - [ ] Configuration validation
 
 ## Release Notes
 
-### 0.0.1
+### 0.0.2
 
 Initial release
