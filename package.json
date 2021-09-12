@@ -2,7 +2,7 @@
   "name": "vscode-modern-fortran-formatter",
   "displayName": "vscode-modern-fortran-formatter",
   "description": "Modern Fortran Formatter using fprettify",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "yukiuuh2936",
   "engines": {
     "vscode": "^1.48.0"

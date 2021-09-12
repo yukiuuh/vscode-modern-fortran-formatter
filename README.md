@@ -22,6 +22,10 @@ Using fprettify
 
 ## Release Notes
 
+### 0.0.4
+
+Upgraded some packages
+
 ### 0.0.3
 
 Upgraded some packages
