@@ -22,6 +22,12 @@ Using fprettify
 
 ## Release Notes
 
+### 0.0.5
+
+Updated some packages
+Applying MIT License
+Setting up CI
+
 ### 0.0.4
 
 Upgraded some packages
